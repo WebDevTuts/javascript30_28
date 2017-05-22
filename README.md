@@ -1,4 +1,4 @@
-## JavaScript30 Day 28 - Video Speed Controller UI
+## JavaScript30 Day 28 - Video Speed Scrubber
 
 In this tutorial, we learn how to build an UI that allows users to control video speed by scrubbing a pill like control.
 
